@@ -13,6 +13,10 @@ Como foram feitos ao longo do tempo, fui mudando a forma de fazer algumas coisas
 Alguns projetos possuem o front-end, no qual optei por não upar, pois como não foram feitos totalmente por mim, apesar da familiaridade e do entendimento, não tenho total domínio, portanto tomei essa decisão para não tirar certo "proveito" de códigos prontos. 
 No meu GitHub apenas upei coisas que consigo implementar com mais facilidade
 
+Obrigado, e espero que um dia eu possa fazer parte do seu time ;)
+
+Ass: João Vitor Reis - Desenvolvedor de Software
+
 <!---
 jvrm/jvrm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
